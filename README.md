@@ -1,4 +1,4 @@
-# Contagious Cafe ☕
+# Local Bite ☕
 
 Welcome to Contagious Cafe!
 
