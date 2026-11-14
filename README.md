@@ -3,8 +3,7 @@
 Welcome to Contagious Cafe!
 
 ## Live Website
-
-https://statuesque-fox-8f11b1.netlify.app/
+https://local-bite.netlify.app/
 
 ## About
 
